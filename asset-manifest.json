@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ef6b9fcf.css",
+    "main.js": "./static/js/main.bc361d3a.js",
+    "static/js/787.d70d452e.chunk.js": "./static/js/787.d70d452e.chunk.js",
+    "static/media/robotoflex_regular.ttf": "./static/media/robotoflex_regular.1f865d34c9c5f4e4438f.ttf",
+    "index.html": "./index.html",
+    "main.ef6b9fcf.css.map": "./static/css/main.ef6b9fcf.css.map",
+    "main.bc361d3a.js.map": "./static/js/main.bc361d3a.js.map",
+    "787.d70d452e.chunk.js.map": "./static/js/787.d70d452e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef6b9fcf.css",
+    "static/js/main.bc361d3a.js"
+  ]
+}
